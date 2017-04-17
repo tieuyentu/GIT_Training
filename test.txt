@@ -1,7 +1,4 @@
 123
 123 in branch master
-<<<<<<< Updated upstream
 add test for patch
-=======
 1234
->>>>>>> Stashed changes
